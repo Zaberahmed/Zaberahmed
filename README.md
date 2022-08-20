@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Zaberahmed
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning coding
+- 👋 Hi, I’m Sk. Zaber Ahmed.
+- 
+- 🌱 I’m currently learning Django and Python.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me zaber05gmail.com
+- 📫 Reach me here: ("zaber05gmail.com")
 - 📄 I have my CV attached as well.
 
 <!---
