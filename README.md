@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sk. Zaber Ahmed.
-- 
 - 🌱 I’m currently learning Django and Python.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 Reach me here: [zaber05gmail.com]
