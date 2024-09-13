@@ -1,10 +1,33 @@
+
+![Custom cover photo](https://github.com/Zaberahmed/Zaberahmed/blob/main/github-cover.png?raw=true)
+
+
 <h1 align="center">Hi 👋, I'm Zaber</h1>
-<h2 align="center">A passionate software engineer from Bangladesh</h2>
 
 
-- 🌱 I’m currently learning **Next.js**
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 📫 How to reach me **zaber05@gmail.com**
+- 👨‍💻 A passionate software engineer from <a href="https://en.wikipedia.org/wiki/Bangladesh">🇧🇩 Bangladesh</a>
+- 💼 I’m currently working with **React.js**, **Minimals UI**, and **Google Maps** at work.
+- 🌱 I’m currently learning **Nest.js**
+- 💬 Ask me about **Typescript**
+- 📫 How to reach me: **zaber05@gmail.com**
+- 🧗 I try to: Go beyond and push the bounds.
+- ⚡ Fun fact: I enjoy cycling and digital card games on my weekends.
+
+
+
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px; margin-top: 30px">
+  <h3 style="margin: 0;">You can checkout my other socials:</h3> 
+  <div style="display: flex; align-items: center; gap: 2px">
+    <a href="https://www.linkedin.com/in/sk-zaber-ahmed/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://x.com/SkZaberAhmed"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=for-the-badge&logo=X&logoColor=white&color=black" alt="X" /></a>&nbsp;
+  </div>
+</div>
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
