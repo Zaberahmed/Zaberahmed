@@ -51,7 +51,7 @@
     </td>
     <td align="center">
       <a href="https://tanstack.com/query/latest/">
-        <img src="https://react-query.tanstack.com/_next/static/images/logo-a62004778f13b2c6f6b87e11f1c1f358.svg" alt="tanstack query" width="40" height="40"/>
+        <img src="https://tanstack.com/_build/assets/logo-color-100w-lPbOTx1K.png" alt="tanstack query" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
@@ -74,7 +74,7 @@
   <tr>
     <td align="center">
       <a href="https://nextjs.org/">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+        <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
@@ -84,7 +84,7 @@
     </td>
     <td align="center">
       <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+        <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
@@ -152,13 +152,17 @@
 
 
 
+<div style="display: flex; justify-content: space-between; margin-top: 40px;">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaberahmed&show_icons=true&locale=en&layout=compact" alt="zaberahmed" style="width: 30%;"/>
 
+  <!-- Regular Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zaberahmed&show_icons=true&locale=en" alt="zaberahmed" style="width: 35%;"/>
 
+  <!-- GitHub Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaberahmed" alt="zaberahmed" style="width: 30%;"/>
+</div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaberahmed&show_icons=true&locale=en&layout=compact" alt="zaberahmed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaberahmed&show_icons=true&locale=en" alt="zaberahmed" /></p>
 
 
 <!---
