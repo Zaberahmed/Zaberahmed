@@ -7,13 +7,13 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 👨‍💻 A passionate software engineer from <a href="https://en.wikipedia.org/wiki/Bangladesh">🇧🇩 Bangladesh</a>
+- 👨‍💻 A passionate software engineer from <a href="https://en.wikipedia.org/wiki/Bangladesh">🇧🇩 Bangladesh.</a>
 - 💼 I’m currently working with **React.js**, **Minimals UI**, and **Google Maps** at work.
-- 🌱 I’m currently learning **Nest.js**
-- 💬 Ask me about **Typescript**
-- 📫 How to reach me: **zaber05@gmail.com**
+- 🌱 I’m currently learning **Nest.js**.
+- 💬 Ask me about **Typescript**.
+- 📫 How to reach me: **zaber05@gmail.com**.
 - 🧗 I try to: Go beyond and push the bounds.
-- CV Take a look at my CV 
+- 📄 Take a look at my CV.
 - ⚡ Fun fact: I enjoy cycling and digital card games on my weekends.
 
 
@@ -83,8 +83,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40"/>
+      <a href="https://mui.com/material-ui/">
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="mui" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
@@ -116,8 +116,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://mui.com/material-ui/">
-        <img src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="mui" width="40" height="40"/>
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40"/>
       </a>
     </td>
     <td colspan="3"></td>
