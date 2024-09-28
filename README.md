@@ -13,7 +13,7 @@
 - 💬 Ask me about **Typescript**.
 - 📫 How to reach me: **zaber05@gmail.com**.
 - 🧗 I try to: Go beyond and push the bounds.
-- 📄 Take a look at my [CV](Sk.-Zaber-Ahmed.pdf).
+- 📄 Take a look at my [CV](https://flowcv.com/resume/j5q82loask).
 - ⚡ Fun fact: I enjoy cycling and digital card games on my weekends.
 
 
