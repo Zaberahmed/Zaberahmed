@@ -4,16 +4,15 @@
 
 <h1 align="center">Hi 👋, I'm Zaber</h1>
 
-<div style="margin-bottom: 10px">
+
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
 
 
 - 👨‍💻 A passionate software engineer from <a href="https://en.wikipedia.org/wiki/Bangladesh">🇧🇩 Bangladesh.</a>
 - 💼 I’m currently working with **React.js**, **Minimals UI**, and **Google Maps** at work.
-- 🌱 I’m currently learning **Nest.js**.
-- 💬 Ask me about **Typescript**.
-- 📫 How to reach me: **zaber05@gmail.com**.
+- 🌱 I’m currently learning **Nest.js** in my free time.
+- 💬 Ask me about **Typescript** and I will try to help as best as I can.
+- 📫 Reach me at **zaber05@gmail.com**.
 - 📄 Take a look at my [CV](https://flowcv.com/resume/j5q82loask).
 - ⚡ Fun fact: I enjoy cycling and digital card games on my weekends.
 
@@ -155,13 +154,13 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 40px;">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaberahmed&show_icons=true&locale=en&layout=compact" alt="zaberahmed" style="width: 30%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaberahmed&show_icons=true&locale=en&layout=compact" alt="top-languages" style="width: 30%;"/>
 
   <!-- Regular Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zaberahmed&show_icons=true&locale=en" alt="zaberahmed" style="width: 35%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaberahmed&show_icons=true&locale=en" alt="statistics" style="width: 35%;"/>
 
   <!-- GitHub Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaberahmed" alt="zaberahmed" style="width: 30%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaberahmed" alt="github-streak" style="width: 30%;"/>
 </div>
 
 
