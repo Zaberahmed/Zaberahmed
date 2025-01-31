@@ -4,15 +4,16 @@
 
 <h1 align="center">Hi 👋, I'm Zaber</h1>
 
-
+<div style="margin-bottom: 10px">
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
+
 
 - 👨‍💻 A passionate software engineer from <a href="https://en.wikipedia.org/wiki/Bangladesh">🇧🇩 Bangladesh.</a>
 - 💼 I’m currently working with **React.js**, **Minimals UI**, and **Google Maps** at work.
 - 🌱 I’m currently learning **Nest.js**.
 - 💬 Ask me about **Typescript**.
 - 📫 How to reach me: **zaber05@gmail.com**.
-- 🧗 I try to: Go beyond and push the bounds.
 - 📄 Take a look at my [CV](https://flowcv.com/resume/j5q82loask).
 - ⚡ Fun fact: I enjoy cycling and digital card games on my weekends.
 
