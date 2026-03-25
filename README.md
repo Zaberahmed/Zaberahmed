@@ -10,7 +10,7 @@
 
 - 👨‍💻 A passionate software engineer from <a href="https://en.wikipedia.org/wiki/Bangladesh">🇧🇩 Bangladesh.</a>
 - 💼 I’m currently working with **React.js**, **Minimals UI**, and **Google Maps** at work.
-- 🌱 I’m currently learning **Nest.js** in my free time.
+- 🌱 I’m currently learning **Rust** in my free time.
 - 💬 Ask me about **Typescript** and I will try to help as best as I can.
 - 📫 Reach me at **zaber05@gmail.com**.
 - 📄 Take a look at my [CV](https://flowcv.com/resume/j5q82loask).
